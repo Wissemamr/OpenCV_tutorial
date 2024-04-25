@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+figs\maroon5_maps.mp4
+
+
 # C extensions
 *.so
 
